@@ -1,0 +1,35 @@
+
+.card{
+  display: flex;
+}
+.card-line{
+  display: block;
+  width: 100%;
+}
+.card:hover{
+  cursor: pointer;
+}
+.preview-img{
+  margin: 16px;
+  width: 180px;
+  height: 180px;
+  border-radius: 4px;
+}
+.amount{
+  font-size: 24px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  display: flex;
+}
+.product-info{
+  width: 50%;
+}
+.title-card{
+  font-size: 18px;
+  color: #666666;
+}
+.line{
+  border: solid 1px #EEEEEE;
+  margin-left: 10px;
+  margin-right: 10px;
+}

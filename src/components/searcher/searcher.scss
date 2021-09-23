@@ -1,3 +1,40 @@
 .nav-search-input {
-  
+  height: 25px;
+  border-radius: 2px;
+  background-color: #fff;
+  border: 0 rgba(0,0,0,.2);
+  padding: 7px 15px 9px 15px;
+  margin: 0;
+  top: 0;
+  width: 100%;
+  font-size: 16px;
+  outline: none;
+}
+.form-searcher{
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+}
+.nav-search-btn{
+  height: 41px;
+  cursor: pointer;
+  border: none;
+  width: 40px;
+}
+.container{
+  background-color: #FFE600;
+  height: 60px;
+}
+.searcher{
+  display: flex;
+  width: 80%;
+}
+.len-icon{
+  width: 18px;
+}
+.logo {
+  width: 64px;
+  margin-right: 16px;
 }

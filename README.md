@@ -1,3 +1,9 @@
+# Prueba Fullstack para Mercado libre
+Hola! 👋
+Me alegra llegar hasta este punto de enviar la solución para la prueba técnica, es muy gratificante para mi realizar este tipo de retos ya que estoy en proceso de aprendizaje con React. A continuación nombraré aspectos para tener en cuenta del desarrollo:
+
+- **Bread crump**. Para las categorias propias de cada Item no vi de donde sacarlas, en los requerimientos no se especificó esa parte.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

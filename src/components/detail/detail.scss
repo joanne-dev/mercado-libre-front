@@ -1,0 +1,56 @@
+.detail-content{
+  background-color: #EEEEEE;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  height: auto;
+}
+.detail-info{
+  background-color: white;
+  width: 80%;
+  display: flex;
+}
+.main_info{
+  display: block;
+  width: 680px;
+  height: 680px;
+  padding: 30px;
+}
+.info{
+  width: 35%;
+}
+.img-detail{
+}
+.sold-title{
+  font-size: 14px;
+  color: #333333;
+  margin-top: 32px;
+  margin-bottom: 0;
+}
+.title{
+  font-size: 24px;
+  width: 250px;
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+.price{
+  font-size: 46px;
+  margin-top: 32px;
+  margin-bottom: 0;
+}
+.btn-buy{
+  background-color: #3486FA;
+  color: white;
+  border: none;
+  width: 255px;
+  height: 37px;
+  margin-top: 32px;
+  margin-right: 32px;
+}
+.desc-title{
+  font-size: 28px;
+}
+.desc{
+  font-size: 16px;
+  color: #666666;
+}
